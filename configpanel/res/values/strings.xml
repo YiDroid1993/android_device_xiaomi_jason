@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">AConfig Panel</string>
+    <string name="device_settings_app_name">AConfig Panel</string>
+    <string name="button_panel_title">button title</string>
     <string name="button_swap_title">Swap Title</string>
     <string name="button_swap_summary">button_swap_summary</string>
     <string name="fingerprint_pocketmode_title">fingerprint_pocketmode_title</string>
